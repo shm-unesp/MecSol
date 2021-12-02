@@ -1,6 +1,6 @@
 # MecSol
 
-Rotinas em Python e Matlab para uso no curso de Mecânica dos Sólidos da UNESP
+Rotinas em Python e Matlab para uso no curso de Mecânica dos Sólidos da UNESP/Ilha Solteira
 
 Para maiores informações:
 https://www.samueldasilva.org/teaching/solid-mechanics
